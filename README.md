@@ -38,9 +38,15 @@ Built as a team project during the 2nd year of B.Tech (ECE) at NSUT, Delhi.
 
 | View 1 | View 2 |
 |--------|--------|
-| ![Setup 1](images/setup1.jpg) | ![Setup 2](images/setup2.jpg) |
+| ![Setup 1](20260413_122218.jpg) | ![Setup 2](20260413_120408.jpg) |
 
 > ESP32 connected to breadboard with transistor circuit and ADC module
+
+## 📈 Output Plots
+
+| BJT Characteristics | MOSFET Characteristics |
+|---------------------|------------------------|
+| ![BJT](bjt%20char.jpg) | ![MOSFET](mosfet%20char.jpg) |
 
 ---
 
